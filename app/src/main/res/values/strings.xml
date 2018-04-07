@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">What Side of Your Brain Is Dominant?</string>
+
+    <string name="name">Please enter your name!</string>
+
+    <string name="gender">What is your gender?</string>
+
+    <string name="woman">Woman</string>
+
+    <string name="man">Man</string>
+
+    <string name="genderResult">!\u0020You are a\u0020</string>
+
+    <string name="race">Please check one box that describes the race/ethnicity category with which you primarily identify.</string>
+
+    <string name="nativeAM">American Indian or Alaskan Native</string>
+
+    <string name="asian">Asian</string>
+
+    <string name="black">Black or African American</string>
+
+    <string name="caucasian">Caucasian</string>
+
+    <string name="hispanic">Hispanic or Latino</string>
+
+    <string name="hawaiian">Native Hawaiian or other Pacific Islander</string>
+
+    <string name="more">2 or more races</string>
+
+    <string name="raceNativeAM">You are a person having origins in any of the original peoples of North and South America (including Central America).</string>
+
+    <string name="raceAsian">You are a person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent.</string>
+
+    <string name="raceBlack">You are a person having origins in any of the black racial groups of Africa.</string>
+
+    <string name="raceCaucasian">You are a person having origins in any of the original peoples of Europe, the Middle East, or North Africa.</string>
+
+    <string name="raceHispanic">You are a person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.</string>
+
+    <string name="raceHawaiian">You are a person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.</string>
+
+    <string name="raceMore">You are a person of multiracial and multicultural backgrounds.</string>
+
+    <string name="raceNone">You did not select any racial/ethnic group!</string>
+
+    <string name="age">How old are you?</string>
+
+    <string name="under18">Under 18</string>
+
+    <string name="f18t25">18 – 25</string>
+
+    <string name="f25t35">25 – 35</string>
+
+    <string name="above35">Above 35</string>
+
+    <string name="question1">1. Are you good at following directions?</string>
+
+    <string name="answer1a">Absolutely!</string>
+
+    <string name="answer1b">No, I skip over steps.</string>
+
+    <string name="question2">2. Are you more likely to get lost in something or have trouble concentrating?</string>
+
+    <string name="answer2a">I tend to get too absorbed with something.</string>
+
+    <string name="answer2b">I have trouble with concentration and focus.</string>
+
+    <string name="question3">3. How punctual are you?</string>
+
+    <string name="answer3a">Better three hours too soon than a minute too late.</string>
+
+    <string name="answer3b">Punctuality is the thief of adventure.</string>
+
+    <string name="question4">4. You are better at remembering:</string>
+
+    <string name="answer4a">Names</string>
+
+    <string name="answer4b">Faces</string>
+
+    <string name="question5">5. You are better at:</string>
+
+    <string name="answer5a">Algebra</string>
+
+    <string name="answer5b">Geometry</string>
+
+    <string name="question6">6. Which statement reflects your beliefs more?</string>
+
+    <string name="answer6a">I have a strong sense of right and wrong.</string>
+
+    <string name="answer6b">What\'s right or wrong depends on the situation.</string>
+
+    <string name="question7">7. In an argument or heated discussion, you find it most important to:</string>
+
+    <string name="answer7a">Drive my point home.</string>
+
+    <string name="answer7b">Come to an understanding.</string>
+
+    <string name="result">Click for result!</string>
+
+    <string name="left">The left side of your brain is more dominant.\nYou are a verbally and mathematically adept person. You notice details, and you are very precise. Errors and mistakes drive you crazy. You are a perfectionist in almost every aspect of your life!</string>
+
+    <string name="right">The right side of your brain is more dominant.\nDaring and intuitive, you see the world in your unique way. You are all about creativity and flexibility. You have a broad perspective on the world. You may be a bit chaotic, but you never get stuck in a rut!</string>
+
+    <string name="balanced">Your brain is a healthy mix of logic and creativity.\nYou are both sensitive and savvy. Rational and reasonable, you have a very fluid way of thinking. You follow through on the plans you make and you also are a complex person.</string>
+
+    <string name="hi">Hi\u0020</string>
+
+    <string name="linebreak">.\n</string>
+
+    <string name="belong">\nYou belong in the\u0020</string>
+
+    <string name="agescore">\u0020age group and you scored\u0020</string>
+
+</resources>
